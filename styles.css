@@ -1,0 +1,27 @@
+/* Estilo para o header */
+header {
+    background-color: #e3f2fd;  /* azul claro */
+    color: #0d47a1;             /* azul escuro */
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #90caf9;
+  }
+  
+  /* Estilo para o main */
+  main {
+    background-color: #f1f8e9;  /* verde claro */
+    color: #33691e;             /* verde escuro */
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #aed581;
+  }
+  
+  /* Estilo para o footer */
+  footer {
+    background-color: #fff3e0;  /* laranja claro */
+    color: #e65100;             /* laranja escuro */
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #ffcc80;
+  }
+  
